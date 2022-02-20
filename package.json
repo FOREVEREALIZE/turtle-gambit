@@ -9,7 +9,7 @@
     "@types/ws": "^7.4.0",
     "carlo": "^0.9.46",
     "ngrok": "^3.3.0",
-    "node-json-db": "^1.1.0",
+    "node-json-db": "^1.4.1",
     "p-queue": "^6.6.2",
     "patch-package": "^6.2.2",
     "postinstall-postinstall": "^2.1.0",
