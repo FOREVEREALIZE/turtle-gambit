@@ -1232,10 +1232,10 @@ nanomatch@^1.2.9:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-ngrok@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/ngrok/-/ngrok-3.3.0.tgz#85e5ff72de38de1a416f0fe559ff439169d24c60"
-  integrity sha512-NuTfuxttodW6o9cPEKiJgjmjNzolKHoUPaK7I4SbaJVkHd4cuUTlv9YsXNzBFrcNFSsDLuCyCpjsaqe1OvIPSQ==
+ngrok@^3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/ngrok/-/ngrok-3.4.1.tgz#ee20a912831e68a7ac86a6576c21fadbd8458df7"
+  integrity sha512-OTm6Nmi6JINPbzkZff8ysA2WqMeNDg3sOPMFHW2CpatVD5yJxmX1qdyLq3QYNACTKNB3/K9jTkG4wUVpAFX9Dw==
   dependencies:
     "@types/node" "^8.10.50"
     "@types/request" "^2.48.2"
