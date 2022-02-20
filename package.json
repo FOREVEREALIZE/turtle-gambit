@@ -6,7 +6,7 @@
   "dependencies": {
     "@types/carlo": "^0.9.1",
     "@types/node-json-db": "^0.9.3",
-    "@types/ws": "^7.4.0",
+    "@types/ws": "^7.4.7",
     "carlo": "^0.9.46",
     "ngrok": "^3.3.0",
     "node-json-db": "^1.1.0",
