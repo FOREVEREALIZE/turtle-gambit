@@ -880,10 +880,17 @@ node-fetch@^2.6.1:
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
-node-json-db@*, node-json-db@^1.1.0:
+node-json-db@*:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/node-json-db/-/node-json-db-1.1.0.tgz#b275703bf9467985aa2a08ae735a2b1ea02d1c35"
   integrity sha512-HdgRbJrz5OV5+Vs4hLm/i8MTsbxqyvO9A2I/LNviAdrfbvOGt7UhT+DPIEUCaPQbV69fUd0zXB4MWlqGUMf0WA==
+  dependencies:
+    mkdirp "~1.0.4"
+
+node-json-db@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/node-json-db/-/node-json-db-1.4.1.tgz#d5d0898b97902d7ffa6e082c3fe414582fcb363e"
+  integrity sha512-hyfnBtuN3kb88SMmDgVil53Frygx+yYkVi6t10VjpEsPseuMI8+gT+FF37DOcyGCr/1wq6qNIr5PnFimCDlzfA==
   dependencies:
     mkdirp "~1.0.4"
 
