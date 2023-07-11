@@ -11,7 +11,7 @@
     "ngrok": "^3.3.0",
     "node-json-db": "^1.4.1",
     "p-queue": "^6.6.2",
-    "patch-package": "^6.4.7",
+    "patch-package": "^7.0.1",
     "postinstall-postinstall": "^2.1.0",
     "puppeteer-core": "^5.5.0",
     "tslint": "^6.1.3",
